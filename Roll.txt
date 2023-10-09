@@ -1,6 +1,6 @@
 Ryan
 Peyton
-[x] Braydon
+Braydon
 Carl
 Alex
 Brandon
@@ -10,7 +10,7 @@ William
 Isaiah
 Chanel
 Daniel
-Niko
+Niko [x]
 Peyton
 Elijah
 Reuben
