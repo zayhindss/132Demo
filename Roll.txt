@@ -13,7 +13,7 @@ Daniel
 Niko [x]
 Peyton
 Elijah
-Reuben
+[x] Reuben
 Andrew
 Nate
 Akuma
