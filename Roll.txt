@@ -19,7 +19,7 @@ Nate
 Akuma
 [x] Reid
 Jared
-John
+[x] John
 Ian
 Emanuel
 Lane
