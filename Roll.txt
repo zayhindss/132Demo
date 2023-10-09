@@ -18,7 +18,7 @@ Andrew
 Nate
 Akuma
 Reid
-Jared
+[x] Jared
 John
 Ian
 Emanuel
