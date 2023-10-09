@@ -1,8 +1,8 @@
 Ryan
 Peyton
-Braydon
+[x] Braydon
 Carl
-Alex
+[x]Alex
 Brandon
 Ki (like "ky")
 Journey
@@ -17,9 +17,9 @@ Reuben
 Andrew
 Nate
 Akuma
-Reid
+[x] Reid
 [x] Jared
-John
+[x] John
 Ian
 Emanuel
 Lane
@@ -27,4 +27,4 @@ Lane
 kyle
 ayuss "eye-use"
 powala
-[x] prather
+[x] pray - thur
